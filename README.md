@@ -15,11 +15,6 @@ Develop and host a personal portfolio website using AWS S3 Static Website Hostin
 6. Generated a public website endpoint.
 7. Successfully hosted the portfolio website.
 
-## AWS S3 Hosted Website
-
-Website URL:
-http://YOUR-S3-WEBSITE-ENDPOINT
-
 ## Proof of Implementation
 
 ### Screenshots
