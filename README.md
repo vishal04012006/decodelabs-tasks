@@ -36,14 +36,15 @@ Develop and host a personal portfolio website using AWS S3 Static Website Hostin
 
 Successfully deployed and hosted a personal portfolio website using AWS S3 Static Website Hosting.
 
+---
+
+---
 
 # Task 2 - The Server Commander Using AWS EC2
 
 ## Objective
 
 Provision and configure a virtual server using AWS EC2, securely connect through SSH, install and configure the Apache Web Server, and host a custom webpage.
-
----
 
 ## Implementation Steps
 
