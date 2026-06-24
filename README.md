@@ -85,8 +85,6 @@ Provision and configure a virtual server using AWS EC2, securely connect through
 * Accessed the website using the EC2 Public IP Address.
 * Confirmed successful webpage hosting through a web browser.
 
----
-
 ## Proof of Implementation
 
 ### Screenshots
@@ -98,8 +96,6 @@ Provision and configure a virtual server using AWS EC2, securely connect through
 * Custom Webpage Source Code
 * Live Website Output
 
----
-
 ## Technologies Used
 
 * Amazon Web Services (AWS)
@@ -108,8 +104,6 @@ Provision and configure a virtual server using AWS EC2, securely connect through
 * SSH (Secure Shell)
 * Apache Web Server
 * Linux Commands
-
----
 
 ## Outcome
 
