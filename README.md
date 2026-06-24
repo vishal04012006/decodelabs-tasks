@@ -116,3 +116,61 @@ Provision and configure a virtual server using AWS EC2, securely connect through
 Successfully provisioned and managed a cloud-based virtual server using AWS EC2, established secure remote access through SSH, installed and configured the Apache Web Server, and hosted a custom webpage accessible through the internet.
 
 
+---
+
+
+---
+
+# Task 3 - The Data Warehouse Using AWS RDS
+
+## Objective
+
+Provision and manage a cloud-hosted relational database using Amazon RDS and perform basic database operations.
+
+## Technologies Used
+
+* Amazon RDS
+* MySQL
+* MySQL Workbench
+* AWS Security Groups
+
+## Implementation Steps
+
+### 1. Created an Amazon RDS Database Instance
+
+* Launched a MySQL database instance using Amazon RDS.
+* Configured database settings and credentials.
+
+### 2. Configured Security Settings
+
+* Created and attached a Security Group.
+* Allowed MySQL access through Port 3306.
+
+### 3. Connected to the Database
+
+* Connected to the RDS instance using MySQL Workbench.
+* Verified successful database connectivity.
+
+### 4. Performed Database Operations
+
+* Created a database.
+* Created an `Interns` table.
+* Inserted sample records.
+* Retrieved records using SQL queries.
+
+## Proof of Implementation
+
+### Screenshots
+
+* RDS Instance Creation
+* Security Group Configuration
+* MySQL Workbench Connection
+* Database Creation
+* Interns Table Creation
+* Record Insertion
+* Query Output Verification
+
+## Outcome
+
+Successfully deployed a managed MySQL database using Amazon RDS, configured secure database access, and performed data storage and retrieval operations using SQL.
+
