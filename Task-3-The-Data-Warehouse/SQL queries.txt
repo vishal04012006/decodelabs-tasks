@@ -1,0 +1,17 @@
+CREATE DATABASE decodelabs;
+USE decodelabs;
+
+CREATE TABLE Interns (
+    ID INT PRIMARY KEY,
+    Name VARCHAR(50) NOT NULL,
+    Role VARCHAR(50) NOT NULL,
+    Email VARCHAR(100) UNIQUE NOT NULL
+);
+
+INSERT INTO Interns
+VALUES
+(1,'Vishal','Cloud Intern','vishal@gmail.com'),
+(2,'Arun','AWS Intern','arun@gmail.com'),
+(3,'Kumar','DevOps Intern','kumar@gmail.com');
+
+SELECT * FROM Interns;
